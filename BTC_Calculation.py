@@ -23,6 +23,8 @@ listSum=sum(listofrecandcurr)
 print("Investement: " + str(sum(listofpaidBTC)) + "€")
 print("Average cost: " + str(listSum/listofTotalBTC) + "€")
 
+#Test Commit
+
 
 
 
